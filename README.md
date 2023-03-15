@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on 3 projects these are Banking Solution, job portal, and Management solution<br><br>🌱I’m currently learning vue js for front-end<br><br>💬 Ask me about how to waste time<br><br>📫 How to reach me alamin.badhonn@gmail.com<br><br>⚡ Sad but true fact I waste almost 6 hours in the traffic jam every day.
-
+ 
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/alamin.badhonn) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/al-amin.badhon) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alamin-badhon) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/BMAlaminBadhon) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@al-abadhon931) 
