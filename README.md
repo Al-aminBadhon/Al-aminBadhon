@@ -1,4 +1,4 @@
-# 💫 About Me:  
+# 💫 About Me:   
 🔭 I’m currently working on 3  projects these are Banking Solution, job portal, and Management solution<br><br>🌱I’m currently learning vue js for front-end<br><br>💬 Ask me about how to waste time<br><br>📫 How to reach me alamin.badhonn@gmail.com<br><br>⚡ Sad but true fact I waste almost 6 hours in the traffic jam every day.
  
 
